@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently learning Software development and DBMS. looking forward to master a stack
+idk what to say
 
 
 ## 🌐 Socials:
