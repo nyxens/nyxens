@@ -33,9 +33,9 @@
 📂 languages/
 ├── ⚡ C              [ ██████████░░ ] Systems Programming
 ├── ⚡ C++            [ ██████████░░ ] OOP & Competitive
-├── ☕ Java           [ █████████░░░ ] Backend Development
+├── 🌐 JavaScript     [ █████████░░░ ]  Web Development
+├── ☕ Java           [ ████████░░░░ ] Backend Development
 ├── 🐍 Python         [ █████████░░░ ] Automation & Scripting
-├── 🌐 JavaScript     [ ████████░░░░ ] Web Development
 └── 🎯 Dart           [ ███████░░░░░ ] Flutter Apps
 ```
 
@@ -74,14 +74,14 @@
 </div>
 
 * 🔗 **HumIt App**
-  Smart medicine reminder & inventory system
-  `Flutter` `Firebase`
+  Music Recognition & Discovery App
+  `JavaScript` `MongoDB`
 
 * 🔗 **AnnotateAI**
   AI-powered annotation web tool
   `JavaScript` `MongoDB`
 
-* 🔗 **The One Echo**
+* 🔗 **DashGame**
   2D SDL/OpenGL combat game
   `C++`
 
@@ -91,15 +91,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyxens&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxens&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+<img src="https://streak-stats.demolab.com?user=nyxens&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
@@ -109,17 +109,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-### `> system.snake --init`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nyxens&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -133,11 +123,11 @@
 PING Nyxen... STATUS: ONLINE ⚡
 ```
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/nyxens">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://linkedin.com/in/krishna-myaka">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -149,11 +139,11 @@ PING Nyxen... STATUS: ONLINE ⚡
 
 ```bash
 > exit
-> "Code. Break. Learn. Repeat."
+> "Code. Game. Have Fun"
 ```
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=flat-square&label=VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=nyxens&color=00FF41&style=flat-square&label=Nyxen"/>
 
 </div>
