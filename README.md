@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Nyxen;Student+Developer;Building+Cool+Things;Always+Learning..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Nyxen;Student+Developer;Building+Cool+Things;Always+Learning..." />
 
-```
+```bash
 ███╗   ██╗██╗   ██╗██╗  ██╗███████╗███╗   ██╗
 ████╗  ██║╚██╗ ██╔╝╚██╗██╔╝██╔════╝████╗  ██║
 ██╔██╗ ██║ ╚████╔╝  ╚███╔╝ █████╗  ██╔██╗ ██║
@@ -13,8 +13,9 @@
 
 ### `> whoami`
 
-```bash
-$ cat profile.json
+</div>
+
+```json
 {
   "name"     : "Nyxen",
   "role"     : "Student & Developer",
@@ -24,13 +25,11 @@ $ cat profile.json
 }
 ```
 
-</div>
-
 ---
 
 ### `> ls skills/languages`
 
-```
+```bash
 📂 languages/
 ├── ⚡ C              [ ██████████░░ ] Systems Programming
 ├── ⚡ C++            [ ██████████░░ ] OOP & Competitive
@@ -64,21 +63,25 @@ $ cat profile.json
 
 ### `> cat projects.log`
 
-```
+```bash
 [ Initializing projects... ]
 ```
 
-#### 🔧 Featured Projects
+<div align="center">
 
-* 🔗 **[HumIt App](https://github.com/YOUR_USERNAME/humit)**
+### 🔧 Featured Projects
+
+</div>
+
+* 🔗 **HumIt App**
   Smart medicine reminder & inventory system
   `Flutter` `Firebase`
 
-* 🔗 **[AnnotateAI](https://github.com/YOUR_USERNAME/annotateai)**
+* 🔗 **AnnotateAI**
   AI-powered annotation web tool
   `JavaScript` `MongoDB`
 
-* 🔗 **[The One Echo](https://github.com/YOUR_USERNAME/the-one-echo)**
+* 🔗 **The One Echo**
   2D SDL/OpenGL combat game
   `C++`
 
@@ -88,11 +91,15 @@ $ cat profile.json
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=matrix\&hide_border=true\&bg_color=0D1117\&title_color=00FF41\&icon_color=00FF41\&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=matrix\&hide_border=true\&bg_color=0D1117\&title_color=00FF41\&text_color=C9D1D9)
+<br><br>
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=matrix\&hide_border=true\&background=0D1117\&ring=00FF41\&fire=00FF41\&currStreakLabel=00FF41)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
 
@@ -102,22 +109,37 @@ $ cat profile.json
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&bg_color=0D1117\&color=00FF41\&line=00FF41\&point=FFFFFF\&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-### `> ping Nyxen`
+### `> system.snake --init`
 
 <div align="center">
 
-```
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+### `> connect --ping Nyxen`
+
+<div align="center">
+
+```bash
 PING Nyxen... STATUS: ONLINE ⚡
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -125,10 +147,13 @@ PING Nyxen... STATUS: ONLINE ⚡
 
 <div align="center">
 
-```
+```bash
+> exit
 > "Code. Break. Learn. Repeat."
 ```
 
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=00FF41\&style=flat-square\&label=VISITORS)
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF41&style=flat-square&label=VISITORS"/>
 
 </div>
