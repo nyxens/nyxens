@@ -1,24 +1,118 @@
-# 💫 About Me:
-idk what to say
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-myaka-903071374) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hellonyxen) 
+```
+██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ 
+██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗
+█████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║
+██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║
+██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+### `> whoami`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nyxens&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nyxens&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nyxens&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+```bash
+$ cat profile.json
+{
+  "name"     : "Krishna",
+  "role"     : "Student & Learner",
+  "status"   : "Building. Breaking. Learning. Repeat.",
+  "location" : "India 🇮🇳",
+  "focus"    : ["DSA", "Projects", "Open Source"]
+}
+```
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nyxens&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nyxens&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nyxens&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> ls skills/languages`
+
+```
+📂 languages/
+├── ⚡ C              [ ██████████░░ ] Systems & Low-level
+├── ⚡ C++            [ ██████████░░ ] OOP & Competitive
+├── ☕ Java           [ █████████░░░ ] Backend & OOP
+├── 🐍 Python         [ █████████░░░ ] Scripting & Automation
+├── 🌐 JavaScript     [ ████████░░░░ ] Web & Logic
+└── 🎯 Dart           [ ███████░░░░░ ] Mobile & Flutter
+```
+
+---
+
+### `> ls skills/tools`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### `> cat projects.log`
+
+```
+╔══════════════════════════════════════════════════════╗
+║  No projects listed yet — they're being compiled...  ║
+║  [ Add yours below! ]                                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+> 💡 **Replace this section** with your actual projects like:
+
+```md
+#### 🔧 [Project Name](https://github.com/Krishna/project)
+> Short description of what it does.
+> `Python` `JavaScript` — ⭐ X stars
+```
+
+---
+
+### `> cat github_stats.sh && bash`
+
+<div align="center">
+
+![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Krishna&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+
+</div>
+
+---
+
+### `> ping Krishna`
+
+<div align="center">
+
+```
+PING Krishna... response time: instant ⚡
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Krishna)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+> "First, solve the problem. Then, write the code." — John Johnson
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Krishna&color=00FF41&style=flat-square&label=VISITORS)
+
+</div>
